@@ -2,4 +2,4 @@
 <h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
 <h2> Glad to see you here </h2>
 <h3> Ankit Tiwari </h3>
-<h4> Cedcoss Technologies Pvt Ltd </h4>
+<h4> Cedcoss Technologies Pvt Ltd Vishwas </h4>
